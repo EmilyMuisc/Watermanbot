@@ -37,7 +37,7 @@ collection = db['usernames']
 admin_id = [1445472501,5871038439]
 
 channel_dictionary = {
-    '-1001997981310' : "https://t.me/ChetuP18"
+    '-1002176818923' : "https://t.me/+L4Bd1O9Q04cyZDU1"
 }
 
 api_id = '22368708'  # Your api_id

@@ -24,10 +24,7 @@ collection = db['usernames']
 admin_id = [5871038439,6639559853]
 
 channel_dictionary = {
-    '-1001997981310' : "https://t.me/ChetuP18",
-    '-1002058092597' : "https://t.me/TirangaAsliChetan",
-    '-1001990308626' : "https://t.me/AsliChetan_Prediction",
-    '-1002029214229' : "https://t.me/BDGASLI_PREDICTION"
+    '-1002176818923' : "https://t.me/+L4Bd1O9Q04cyZDU1"
 }
 
 api_id = '22368708'  # Your api_id

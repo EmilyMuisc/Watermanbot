@@ -41,9 +41,9 @@ image_success = "https://telegra.ph/file/ac64992d7bc2b068bece7.jpg"
 recharging = {}
 predicting = {}
 
-game0 = "55 CLUB"
+game0 = "IN 999"
 game1 = "TIRANGA GAMES"
-game2 = "KWG GAME"
+game2 = "OK WIN"
 game3 = "BDG"
 
 game_codes = {
@@ -54,10 +54,10 @@ game_codes = {
 }
 
 
-game0_link = "https://55club.in/#/register?invitationCode=78718585894"
-game1_link = "https://tirangalottery.in/#/register?invitationCode=5582268213"
-game2_link = "https://kwggame.com/#/register?invitationCode=133908W403"
-game3_link = "https://bdg2222.com/#/register?invitationCode=u8BOw1609901"
+game0_link = "https://in999.in/#/register?invitationCode=67781823266"
+game1_link = "https://tirangaclub.net/#/register?invitationCode=258351120039"
+game2_link = "https://okwinclub.com/#/register?invitationCode=313333260601"
+game3_link = "http://bdg1122.com/#/register?invitationCode=534753114261"
 
 
 image_game = {"https://telegra.ph/file/31bccfcf79ce935f26acb.jpg":game0_link,

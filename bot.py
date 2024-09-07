@@ -81,10 +81,10 @@ success_text = "✅ Your recharge of {} has been successful"
 
 results = ['Big','Small']
 
-prediction_link = {'55 𝘾𝙇𝙐𝘽' : "https://55club.in/#/register?invitationCode=78718585894",
-                   '𝙏𝙞𝙧𝙖𝙣𝙜𝙖 𝙂𝙖𝙢𝙚𝙨' : "https://tirangalottery.in/#/register?invitationCode=5582268213",
-                   'ᴋᴡɢ ɢᴀᴍᴇ' : "https://kwggame.com/#/register?invitationCode=133908W403", 
-                   'ʙᴅɢ' : "https://bdg2222.com/#/register?invitationCode=u8BOw1609901"}
+prediction_link = {'𝐈𝐍 𝟗𝟗𝟗' : "https://in999.in/#/register?invitationCode=67781823266",
+                   '𝙏𝙞𝙧𝙖𝙣𝙜𝙖 𝙂𝙖𝙢𝙚𝙨' : "https://tirangaclub.net/#/register?invitationCode=258351120039",
+                   '𝙊𝙆 𝙒𝙄𝙉' : "https://okwinclub.com/#/register?invitationCode=313333260601", 
+                   'ʙᴅɢ' : "http://bdg1122.com/#/register?invitationCode=534753114261"}
 
 games = list(prediction_link.keys())
 

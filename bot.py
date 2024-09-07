@@ -92,9 +92,9 @@ result_text = '''✅Prediction Result:
 👨‍💻Period No: {}
 ⚡Result: {}
 
- Powered by 😈 : 𝘾𝙝𝙚𝙩𝙖𝙣 𝙋18'''
+ Powered by 😈 : 𝙒𝙖𝙩𝙚𝙧 𝙈𝙖𝙣'''
 
-# bot_username = "Pandatsuperbot"
+# bot_username = "waterman_superbot"
 
 
 def get_random_result():

@@ -29,7 +29,7 @@ channel_dictionary = {
 
 api_id = '22368708'  # Your api_id
 api_hash = 'ec241c37a122cda302d68cb1415d2bff'  # Your api_hash
-bot_token = '7262001397:AAFB1hdYtJmjXJK1Hl2Ot4dtVowboJ7nXKI'#'7032384318:AAFgxr2YFvDwp_WAiGQSkWodKfFJFs0Fk-0'  # Your bot's token
+bot_token = '7262001397:AAFB1hdYtJmjXJK1Hl2Ot4dtVowboJ7I'#'7032384318:AAFgxr2YFvDwp_WAiGQSkWodKfFJFs0Fk-0'  # Your bot's token
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
